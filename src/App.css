@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300;400&family=Pacifico&family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+.containerr {
+  width: 100%;
+  min-height: 100vh;
+  padding: 120px;
+  font-family: Poppins;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  user-select: none;
+}
+
+.nav_home_btn {
+  background-color: #19221e;
+  padding: 0.5em;
+  border-radius: 1.5em;
+  width: 7em;
+}
+.nav_home_btn:hover {
+  background-color: #0f271c;
+}
+
+.logo {
+  font-family: Kalam;
+  font-size: 2em;
+  cursor: pointer;
+}
+.footerr {
+  width: 100%;
+}
+
+.footer_link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+}
+
+.optionsandicons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3em;
+}
+
+.footer_link:hover {
+  color: #b7cbc7;
+}
+
+.account_detail_btn {
+  font-weight: 400;
+  gap: 0.5em;
+}
+
+.account_detail_btn:hover {
+  color: #b7cbc7;
+}
+.account_detail_btn:hover .user_icon {
+  color: #869591;
+}
+
+.passage {
+  text-align: justify;
+  white-space: normal;
+}
+
+.timer {
+  font-family: Plus Jakarta Sans;
+}
+.timer_text {
+  font-size: smaller;
+}
+
+.mainn {
+  display: flex;
+  flex-direction: column;
+  gap: 4em;
+  margin-top: 6em;
+}
+
+.optnav {
+  width: 40em;
+  height: 2.5em;
+  background-color: #1b2524;
+  border-radius: 0.5em;
+  margin-top: 0.5em;
+  font-size: 0.95em;
+}
+
+.separator {
+  width: 0.2em;
+  border-radius: 1em;
+  background-color: #233a2e;
+  height: 60%;
+}
+
+.optionsandicons:hover {
+  color: #b7cbc7;
+}
+
+.active {
+  color: #5dc592 !important;
+}
