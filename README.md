@@ -7,10 +7,10 @@ It's a typing speed checker made with react. Icons from : react-icons and design
 
 ### Todo: 
 
-[x] Basic Frontend (Not Functional)
-[ ] Timer Functionality
-[ ] Typing Functionality
-[ ] Calculating Functionality
-[ ] Localstorage logs and nav functions
+- [x] Basic Frontend (Not Functional)
+- [ ] Timer Functionality
+- [ ] Typing Functionality
+- [ ] Calculating Functionality
+- [ ] Localstorage logs and nav functions
 
 © Neek
