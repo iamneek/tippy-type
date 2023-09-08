@@ -1,8 +1,16 @@
-# React + Vite
+# Tippy Type
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+It's a typing speed checker made with react. Icons from : react-icons and design inspiration from : dribble and monkeytype.com
 
-Currently, two official plugins are available:
+![Screenshot](https://github.com/iamneek/tippy-type/assets/136208577/75369917-dbd9-43fd-bb39-32a485b5a016)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### Todo: 
+
+[x] Basic Frontend (Not Functional)
+[ ] Timer Functionality
+[ ] Typing Functionality
+[ ] Calculating Functionality
+[ ] Localstorage logs and nav functions
+
+© Neek
